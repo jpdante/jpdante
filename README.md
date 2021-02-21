@@ -14,7 +14,7 @@
 I'm João Pedro, passionate about the open source community and full-stack development. Currently a student in Computer Science at Universidade Anhembi Morumbi and working as a freelancer in the development of websites and systems. In a serious relationship with .NET 💚
 
 [![jpdante's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpdante&hide_border=true&theme=midnight-purple)](https://github.com/jpdante/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpdante&hide_border=true&theme=midnight-purple)](https://github.com/jpdante/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpdante&hide_border=true&theme=midnight-purple&layout=compact)](https://github.com/jpdante/)
 
 <p align="center">
   <a href="https://profile.codersrank.io/user/jpdante">
