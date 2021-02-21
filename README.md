@@ -18,6 +18,6 @@ I'm João Pedro, passionate about the open source community and full-stack devel
 
 <p align="center">
   <a href="https://profile.codersrank.io/user/jpdante">
-    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jpdante&height=200&width=400&style=--header-bg-color:%23000;--header-text-color:%237F3ACE&branding=false&show-avatar=false" />
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jpdante&height=200&width=400&style=--header-bg-color:%23000;--header-text-color:%237F3ACE;--name-font-size:10px;--badge-rank-font-size:10px;--badge-technology-font-size:10px;--badge-location-font-size:10px&branding=false&show-avatar=false" />
   </a>
 </p>
