@@ -1,5 +1,5 @@
 ### Hi, 👋 
-<a href="https://discord.gg/p7sWzsTf">
+<a href="https://discord.gg/CDTEN9s">
   <img align="left" src="https://raw.githubusercontent.com/jpdante/jpdante/main/discord.svg" width="22" />
 </a>
 <a href="https://www.linkedin.com/in/joao-dante/">
